@@ -1,0 +1,221 @@
+body{
+ background: -webkit-linear-gradient(
+        to right,
+        #faf8f8,
+        #c0e644
+);
+background: linear-gradient(
+        to right,
+        #c0e644,
+        #faf8f8
+); 
+}
+
+li{
+    color: white;
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    color: #e2f53d;
+    font-size: 23px;
+    font-weight: 900;
+    text-decoration: underline #eaf550;
+    
+}
+
+
+a:hover{
+    color: rgb(247, 248, 203);
+}
+.home{
+    color: rgb(247, 248, 203);
+    font-size: 23px;
+    font-weight: 900;
+    text-decoration: underline rgb(247, 248, 203);
+
+}
+.home:hover{
+    color: #e2f53d
+}
+.C-U{
+    color: rgb(236, 234, 112);
+    font-size: 23px;
+    font-weight: 900;
+    text-decoration: underline rgb(236, 234, 112);
+}
+.C-U:hover{
+    color: rgb(236, 234, 112);
+}
+nav{
+    text-align: right;
+}
+
+.text{
+    color: rgb(117, 117, 68);
+    text-align:center;
+    font-family: cursive;
+    font-weight: 800;
+}
+.pic{
+  height: 300px;
+   width: 60%; 
+   margin-left: 20%;
+
+}
+
+
+.container{
+    text-align: center;
+    font-size: 17px;
+    margin-left: 18px;
+    margin-right: 18px;
+    color: rgb(117, 117, 68);
+    font-weight: 700;
+    font-family: cursive;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    width: 2px;
+    text-align: center;
+    text-decoration: none;
+    height: 2px;
+    
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+ 
+
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    border-radius: 50%;
+   
+    margin-left: 180px;
+  }
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    border-radius: 50%;
+    
+    margin-left: 165px;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    border-radius: 50%;
+    
+    margin-left: 170px;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    border-radius: 50%;
+    
+    margin-left: 180px;
+  }
+  
+  
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    border-radius: 50%;
+   
+    margin-left: 180px;
+  }
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+    border-radius: 50%;
+   
+    margin-left: 180px;
+  }
+  
+  
+.start{
+    color: rgb(117, 117, 68);
+    text-align: center;
+    font-size: 23px;
+    font-family: cursive;
+    font-weight: 900;
+}
+
+.contact{
+    color: rgb(94, 94, 54);
+    text-align: center;
+    background: -webkit-linear-gradient(
+        to right,
+        #c0e644,
+        #faf8f8 
+);
+background: linear-gradient(
+        to right,
+        #faf8f8,
+        #c0e644
+); 
+
+}
+
+.footer{
+    margin-top: 15%;
+    text-align: center;
+    background-color: rgb(201, 240, 110);
+}
+
+.text-2{
+    color: rgb(93, 93, 54);
+    text-align:center;
+    font-family: cursive;
+    font-weight: 800;
+}
+
+.footer-2{
+    margin-top: 12%;
+    text-align: center;
+    background-color: rgb(201, 240, 110);
+}
+
+.emoji{
+  font-size: 100px;
+  text-align: center;
+}
+
+.secret{
+  color: rgb(117, 117, 68);
+  text-align: center;
+  font-weight: 800;
+  font-size: 23px;
+}
+
+.secret-2{
+  color: rgb(117, 117, 68);
+  text-align: center;
+  font-style: italic;
+  font-weight: 800;
+  font-size: 23px;
+
+}
+
+.footer-3{
+  margin-top: 7%;
+  text-align: center;
+  background-color: rgb(201, 240, 110);
+}
+
+.footer-4{
+  text-align: center;
+  background-color: rgb(201, 240, 110);
+}
+
